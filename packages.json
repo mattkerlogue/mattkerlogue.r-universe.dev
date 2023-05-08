@@ -1,0 +1,18 @@
+[
+    {
+        "package": "govukhugo",
+        "url": "https://github.com/co-analysis/govukhugo-r"
+    },
+    {
+        "package": "deckhand",
+        "url": "https://github.com/co-analysis/deckhand"
+    },
+    {
+        "package": "deckhand2",
+        "url": "https://github.com/mattkerlogue/deckhand2"
+    },
+    {
+        "package": "tidyods",
+        "url": "https://github.com/mattkerlogue/tidyods"
+    }
+]
