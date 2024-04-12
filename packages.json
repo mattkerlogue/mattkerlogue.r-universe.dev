@@ -14,5 +14,9 @@
     {
         "package": "tidyods",
         "url": "https://github.com/mattkerlogue/tidyods"
+    },
+    {
+        "package": "shrthnd",
+        "url": "https://github.com/mattkerlogue/shrthnd"
     }
 ]
