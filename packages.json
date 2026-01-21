@@ -8,15 +8,15 @@
         "url": "https://github.com/co-analysis/deckhand"
     },
     {
-        "package": "deckhand2",
-        "url": "https://github.com/mattkerlogue/deckhand2"
-    },
-    {
         "package": "tidyods",
         "url": "https://github.com/mattkerlogue/tidyods"
     },
     {
         "package": "shrthnd",
         "url": "https://github.com/mattkerlogue/shrthnd"
+    },
+    {
+        "package": "inlinesvg",
+        "url": "https://github.com/mattkerlogue/inlinesvg"
     }
 ]
